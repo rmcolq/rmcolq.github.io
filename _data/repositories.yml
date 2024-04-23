@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rmcolq
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - artic-network/scylla
+  - COG-UK/datapipe
+  - virus-evolution/phylopipe
+  - cov-lineages/scorpio
+  - cov-lineages/pangolin
+  - iqbal-lab/pandora
